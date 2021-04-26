@@ -1,0 +1,23 @@
+* {
+box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	font-family: ;
+	margin: ;
+	color: ;
+	background-color: #FFF5E8;
+}
+
+#wrapper {
+	margin: 0 auto;
+	padding: ;
+	background-color: ;
+	max-width: ;
+	min-width: ;
+	
+}
